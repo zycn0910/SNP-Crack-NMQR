@@ -38,7 +38,7 @@
 
 ## 使用方法
 
-1. 打开Fiddler，选择AutjResponder➡Add rule
+1. 打开Fiddler，选择AuthResponder➡Add rule
 2. 上栏填写8位码所提供的指定url（必须全称，下同），下栏填写`http://【你的服务器IP】:【端口号】/qr/cattle/8.js`
 3. 再次点击Add rule
 4. 上栏填写9位码所提供的指定url，下栏填写`http://【你的服务器IP】:【端口号】/qr/horse/9.js`
