@@ -59,7 +59,7 @@
 3. 修改WiFi代理服务器，选择自动配置，指向【步骤2】中的地址
 4. 打开Fiddler➡Options➡HTTPS页面➡点击右上角Action➡选择第二个选项（Export Root Certificate to Desktop）
 5. 将桌面上生成的cer证书安装到平板上
-6. 开始【使用方法步骤7】
+6. 开始【使用方法步骤6】
 
 ## 题外话
 
